@@ -3,8 +3,8 @@
   "graphs": {
     "agent": "./src/agent/graph.py:graph"
   },
-  "http": {
-    "app": "./src/agent/app.py:app"
+  "mcp": {
+    "server": "./src/agent/mcp_server.py:mcp"
   },
   "env": ".env"
 }

@@ -18,6 +18,9 @@ dependencies = [
     "langgraph-api",
     "fastapi",
     "google-genai",
+    "langchain-mcp-adapters>=0.1.9",
+    "mcp>=1.11.0",
+    "fastmcp>=2.10.4",
 ]
 
 
